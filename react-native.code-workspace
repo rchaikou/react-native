@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "rn-complete-guide"
+		},
+		{
+			"path": "rn-complete-guide-second-part"
 		}
 	],
 	"settings": {}
