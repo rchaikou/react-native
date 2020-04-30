@@ -1,4 +1,4 @@
-# React-Native projects
+# React-Native
 
 ## Youtube Chanels:
 
